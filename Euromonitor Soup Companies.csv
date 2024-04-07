@@ -1,0 +1,57 @@
+﻿
+Geography,Category,Company Name,Data Type,2017,2018,2019,2020,2021,2022
+Ireland,Soup,"Hain Celestial Group Inc, The",Retail Value RSP,18.8,19.5,20.3,20.8,20.3,20.0
+Ireland,Soup,Unilever Group,Retail Value RSP,21.2,20.4,19.8,19.4,19.5,19.6
+Ireland,Soup,Glanbia Plc,Retail Value RSP,17.1,16.9,16.6,16.1,15.7,15.5
+Ireland,Soup,Valeo Foods Ltd,Retail Value RSP,14.6,14.0,13.2,12.6,12.7,12.7
+Ireland,Soup,"Kilkenny Food Co, The",Retail Value RSP,2.8,2.7,2.6,2.5,2.4,2.4
+Ireland,Soup,"Baxter & Sons Ltd, WA",Retail Value RSP,3.5,3.0,2.6,2.2,2.2,2.2
+Ireland,Soup,Kraft Heinz Co,Retail Value RSP,2.3,2.2,1.9,1.6,1.6,1.6
+Ireland,Soup,WW International Inc,Retail Value RSP,-,1.1,1.5,1.6,1.6,1.6
+Ireland,Soup,Just Food Co,Retail Value RSP,0.3,0.4,0.4,0.4,0.4,0.4
+Ireland,Soup,Amy's Kitchen Inc,Retail Value RSP,0.2,0.2,0.3,0.3,0.3,0.3
+Ireland,Soup,LHF Ltd,Retail Value RSP,0.1,0.1,0.1,0.2,0.2,0.2
+Ireland,Soup,Simply Organic Ltd,Retail Value RSP,0.1,0.1,0.1,0.1,0.1,0.1
+Ireland,Soup,Premier Foods Plc,Retail Value RSP,0.1,0.1,0.1,0.0,0.0,0.0
+Ireland,Soup,Boyne Valley Foods Ltd,Retail Value RSP,0.1,-,-,-,-,-
+Ireland,Soup,"Heinz Co, HJ",Retail Value RSP,-,-,-,-,-,-
+Ireland,Soup,Weight Watchers International Inc,Retail Value RSP,0.9,-,-,-,-,-
+Ireland,Soup,Private Label,Retail Value RSP,11.9,13.0,14.3,15.8,15.7,15.6
+Ireland,Soup,Others,Retail Value RSP,6.0,6.2,6.3,6.3,7.1,7.9
+Ireland,Soup,Total,Retail Value RSP,100.0,100.0,100.0,100.0,100.0,100.0
+Ireland,Dry Soup,Unilever Group,Retail Value RSP,51.8,49.8,48.5,47.4,46.9,46.4
+Ireland,Dry Soup,Valeo Foods Ltd,Retail Value RSP,26.0,26.4,25.4,24.4,24.1,23.9
+Ireland,Dry Soup,WW International Inc,Retail Value RSP,-,3.5,4.6,5.1,5.0,5.0
+Ireland,Dry Soup,LHF Ltd,Retail Value RSP,0.2,0.3,0.4,0.5,0.5,0.5
+Ireland,Dry Soup,Kraft Heinz Co,Retail Value RSP,0.4,0.4,0.3,0.3,0.3,0.3
+Ireland,Dry Soup,Boyne Valley Foods Ltd,Retail Value RSP,0.4,-,-,-,-,-
+Ireland,Dry Soup,"Heinz Co, HJ",Retail Value RSP,-,-,-,-,-,-
+Ireland,Dry Soup,Weight Watchers International Inc,Retail Value RSP,2.7,-,-,-,-,-
+Ireland,Dry Soup,Private Label,Retail Value RSP,13.7,14.7,15.7,17.4,17.2,17.0
+Ireland,Dry Soup,Others,Retail Value RSP,4.9,5.0,5.0,5.0,5.9,6.8
+Ireland,Dry Soup,Total,Retail Value RSP,100.0,100.0,100.0,100.0,100.0,100.0
+Ireland,Shelf Stable Soup,Valeo Foods Ltd,Retail Value RSP,27.9,26.1,25.7,25.4,25.2,25.0
+Ireland,Shelf Stable Soup,Unilever Group,Retail Value RSP,19.1,20.4,21.7,23.0,23.1,23.4
+Ireland,Shelf Stable Soup,"Baxter & Sons Ltd, WA",Retail Value RSP,16.2,14.5,12.9,11.3,11.1,11.0
+Ireland,Shelf Stable Soup,Kraft Heinz Co,Retail Value RSP,10.0,10.0,8.9,7.8,7.7,7.7
+Ireland,Shelf Stable Soup,Amy's Kitchen Inc,Retail Value RSP,1.0,1.2,1.4,1.6,1.6,1.6
+Ireland,Shelf Stable Soup,Premier Foods Plc,Retail Value RSP,0.3,0.3,0.3,0.2,0.2,0.2
+Ireland,Shelf Stable Soup,"Heinz Co, HJ",Retail Value RSP,-,-,-,-,-,-
+Ireland,Shelf Stable Soup,Private Label,Retail Value RSP,17.9,20.0,21.7,23.5,23.3,23.0
+Ireland,Shelf Stable Soup,Others,Retail Value RSP,7.6,7.6,7.4,7.2,7.8,8.1
+Ireland,Shelf Stable Soup,Total,Retail Value RSP,100.0,100.0,100.0,100.0,100.0,100.0
+Ireland,Chilled Soup,"Hain Celestial Group Inc, The",Retail Value RSP,41.4,41.8,42.1,42.5,42.1,41.7
+Ireland,Chilled Soup,Glanbia Plc,Retail Value RSP,37.6,36.1,34.5,32.9,32.6,32.3
+Ireland,Chilled Soup,"Kilkenny Food Co, The",Retail Value RSP,6.3,5.9,5.4,5.0,5.0,4.9
+Ireland,Chilled Soup,Just Food Co,Retail Value RSP,0.7,0.8,0.8,0.9,0.9,0.9
+Ireland,Chilled Soup,Simply Organic Ltd,Retail Value RSP,0.3,0.2,0.2,0.2,0.2,0.2
+Ireland,Chilled Soup,Country Kitchen Cuisine Ltd,Retail Value RSP,0.1,0.1,0.1,0.1,0.1,0.0
+Ireland,Chilled Soup,Private Label,Retail Value RSP,7.7,8.8,10.3,11.7,11.6,11.5
+Ireland,Chilled Soup,Others,Retail Value RSP,6.0,6.3,6.5,6.8,7.6,8.4
+Ireland,Chilled Soup,Total,Retail Value RSP,100.0,100.0,100.0,100.0,100.0,100.0
+,,,,,,,,,
+Research Sources:,,,,,,,,,
+Cooking Ingredients and Meals: Euromonitor from trade sources/national statistics,,,,,,,,,
+,,,,,,,,,
+Date Exported (GMT): 16/05/2023 10:19:05,,,,,,,,,
+© Euromonitor International,,,,,,,,,
